@@ -1,0 +1,32 @@
+# Xcode and local tooling
+.DS_Store
+.build/
+build/
+DerivedData/
+**/xcuserdata/
+*.xcuserstate
+*.xcresult/
+*.xcarchive/
+*.app/
+*.ipa
+*.dSYM/
+*.dSYM.zip
+*.log
+__pycache__/
+*.pyc
+.env
+.env.*
+*.p12
+*.p8
+*.mobileprovision
+*.provisionprofile
+# Release assets belong in GitHub Releases, not Git history
+*.dmg
+*.zip
+*.mp4
+*.webm
+*.mov
+*.pdf
+# No JavaScript runtime or generated website build is needed
+node_modules/
+.playwright-cli/

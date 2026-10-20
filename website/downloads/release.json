@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "minimum_macos": "14.0",
+  "architectures": [
+    "x86_64",
+    "arm64"
+  ],
+  "signing": "ad-hoc",
+  "notarized": false,
+  "files": [
+    {
+      "name": "WaterHealth-macOS.dmg",
+      "bytes": 5816866,
+      "sha256": "6c4e29fcdfbadb2fa9932f207a6dae4e3f02de3152f77bc412e4259cb31d610c",
+      "url": "https://github.com/David-water/WaterHealth/releases/download/v1.0.0-preview.1/WaterHealth-macOS.dmg"
+    },
+    {
+      "name": "WaterHealth-macOS.zip",
+      "bytes": 5300316,
+      "sha256": "a1cb7f8b047fd86a2719b190d4b3467c193f702a74bc72b4ade8629ffb6689c6",
+      "url": "https://github.com/David-water/WaterHealth/releases/download/v1.0.0-preview.1/WaterHealth-macOS.zip"
+    }
+  ],
+  "source_tag": "v1.0.0-preview.1"
+}
